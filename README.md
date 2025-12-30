@@ -40,48 +40,6 @@ The project follows **good software engineering practices**:
 
 ## 📁 Project Structure
 
-# 📚 Library Management System (Java Swing + MySQL)
-
-A **desktop-based Library Management System** developed using **Java Swing** for the user interface and **MySQL** for persistent data storage.  
-The application supports **complete CRUD operations**, **borrowing & returning books**, **searching**, **filtering**, and **sorting** with a clean modular architecture.
-
----
-
-## 🧾 Project Overview
-
-This project is designed to manage library operations efficiently.  
-It allows librarians to:
-
-- Manage books and members  
-- Issue and return books  
-- Track borrowing history  
-- Search, filter, and sort records  
-- Maintain data integrity using MySQL  
-
-The project follows **good software engineering practices**:
-
-- Separation of concerns (UI, DAO, Model, Utility)
-- JDBC-based database integration
-- Input validation and error handling
-- Responsive UI using SwingWorker
-
----
-
-## 🛠️ Technologies Used
-
-| Technology | Purpose |
-|----------|--------|
-| Java (JDK 17+) | Core programming language |
-| Java Swing | Desktop GUI |
-| MySQL | Relational database |
-| JDBC | Database connectivity |
-| VS Code | Development environment |
-| Git & GitHub | Version control |
-
----
-
-## 📁 Project Structure
-
 LibraryManagementSystem/
 ├── src/
 │ └── com/library/
